@@ -1,0 +1,20 @@
+Openstack installation centos: https://www.youtube.com/watch?v=ozUvALQw5T8
+ 
+Vivek bookmark : https://www.youtube.com/watch?v=ozUvALQw5T8
+ 
+Vxlan : https://blogs.vmware.com/vsphere/2013/05/vxlan-series-how-vtep-learns-and-creates-forwarding-table-part-5.html
+ 
+Python selenium : https://www.youtube.com/watch?v=V69wc4Tmwjc&index=1&list=PLUY1lsOTtPeJNBuSweXS9pcSKbP4mr32S
+ 
+Python pls subscribe : corey Schafer
+ 
+Python subscribe : codebasics  https://www.youtube.com/playlist?list=PLeo1K3hjS3usILfyvQlvUBokXkHPSve6S
+
+https://www.youtube.com/watch?v=tKTZoB2Vjuk&t=2289s
+
+https://www.youtube.com/watch?v=XYUXFR5FSxI
+
+http://www.fremont.k12.ca.us/Domain/1647
+
+https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+for regular expresson
